@@ -2,7 +2,65 @@
 
 **`Estudante DevOps`**
 
-Estudante de TI | Desenvolvimento de Sistemas | Banco de Dados | Redes e Infraestrutura | Foco em DevOps | Engenheiro de Prompt Apaixonado por tecnologia, praticidade e inclusão
+##  Estudante de TI | Desenvolvimento de Sistemas | Banco de Dados | Redes e Infraestrutura | Foco em DevOps | Engenheiro de Prompt Apaixonado por tecnologia, praticidade e inclusão
+
+Sou estudante de Tecnologia da Informação pelo SENAC, em constante desenvolvimento técnico, com interesse em desenvolvimento de sistemas, infraestrutura de TI, bancos de dados e automação. Busco transformar conhecimentos teóricos em soluções práticas por meio de projetos acadêmicos e pessoais.
+
+Durante minha formação, venho desenvolvendo conhecimentos nas seguintes áreas:
+
+Desenvolvimento de Sistemas e Programação
+
+Lógica de programação e algoritmos com Portugol.
+
+Desenvolvimento Web com HTML e CSS.
+
+Estudos de JavaScript, PHP e C#.
+
+Documentação, levantamento de requisitos e prototipagem de sistemas.
+
+Banco de Dados
+
+Modelagem conceitual e lógica (MER/DER).
+
+Normalização de dados e formas normais.
+
+SQL e administração de bancos de dados com MariaDB.
+
+Consultas, relacionamentos, chaves primárias e estrangeiras e triggers.
+
+Infraestrutura e Redes
+
+Linux e administração de ambientes Ubuntu.
+
+Configuração de serviços com Apache2.
+
+Redes de computadores, VLANs e segmentação de redes.
+
+Planejamento de infraestrutura com pfSense.
+
+Estudos de HAProxy, Nginx e certificados digitais.
+
+Monitoramento de infraestrutura com Zabbix.
+
+Conceitos de segurança de redes.
+
+Projetos Práticos
+
+Desenvolvimento de sistema para gerenciamento de uma marmoraria.
+
+Modelagem de banco de dados para operações de supermercado.
+
+Desenvolvimento de plataforma web para gerenciamento de personagens e campanhas de RPG.
+
+Planejamento de infraestrutura de rede com segmentação e controle de acesso.
+
+Também estou aprofundando meus conhecimentos em Inteligência Artificial e Engenharia de Prompt, explorando o uso estratégico da IA para otimizar processos e desenvolver soluções.
+
+Objetivo Profissional
+
+Tenho como objetivo construir uma carreira na área de Tecnologia da Informação, com direcionamento para DevOps, aprofundando conhecimentos em infraestrutura, desenvolvimento, automação e computação em nuvem.
+
+Valorizo a aprendizagem contínua, a resolução de problemas, a praticidade e a inclusão por meio da tecnologia. Busco oportunidades para adquirir experiência profissional, colaborar com equipes e transformar conhecimento em soluções tecnológicas
 
 <p align="left">
     <a href="https://github.com/IvanSants05?tab=repositories&sort=stargazers">
